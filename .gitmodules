@@ -9,3 +9,5 @@
 	url = https://github.com/ish-app/linux
 	update = none
 	shallow = true
+git submodule update --init
+
